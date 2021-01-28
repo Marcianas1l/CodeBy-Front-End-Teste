@@ -3,7 +3,7 @@
 }
 @font-face {
     font-family: "Poppins";
-    src: url(../assets/Fontes/Poppins-Regular.ttf);
+    src: url(./main/assets/Fontes/Poppins-Regular.ttf);
 }
 * {
     margin: 0;
@@ -21,7 +21,7 @@ img {
     padding-right: 15px;
 }
 .section-banner {
-    background-image: url("../assets/img/background.png");
+    background-image: url("./main/assets/img/background.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
