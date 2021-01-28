@@ -21,7 +21,7 @@ img {
     padding-right: 15px;
 }
 .section-banner {
-    background-image:url('https://dummyimage.com/1366x611/000/fff'); /* url */
+    background-image:url('https://dummyimage.com/1366x611/09f/09f'); /* url */
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
@@ -131,22 +131,22 @@ img {
     color: #fff;
 }
 .box .nature {
-    background: url("/img/imagem-1.png") no-repeat;
+    background: url('https://dummyimage.com/370x346/060/060') no-repeat;
     background-size: cover;
 }
 .box .daily {
-    background: url("/img/imagem-2.png") no-repeat;
+    background: url('hhttps://dummyimage.com/770x346/060/060') no-repeat;
     background-size: cover;
 }
 .box .together {
-    background: url("/img/imagem-3.png") no-repeat;
+    background: url('https://dummyimage.com/1170x346/060/060') no-repeat;
     background-size: auto;
 }
 .box .together h3 {
     margin-top: 134px;
 }
 .box .analysis {
-    background: url("/img/imagem-4.png") no-repeat;
+    background: url('https://dummyimage.com/770x346/060/060') no-repeat;
     background-size: cover;
 }
 .box .analysis h3,
@@ -155,7 +155,7 @@ img {
     padding-right: 34px;
 }
 .box .pictures {
-    background: url("/img/imagem-5.png") no-repeat;
+    background: url('https://dummyimage.com/370x346/060/060') no-repeat;
     background-size: cover;
 }
 /*======Seção Growth===========*/
