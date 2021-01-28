@@ -3,7 +3,7 @@
 }
 @font-face {
     font-family: "Poppins";
-    src: url(/assets/Fontes/Poppins-Regular.ttf);
+    src: url(assets/Fontes/Poppins-Regular.ttf);
 }
 * {
     margin: 0;
@@ -21,7 +21,7 @@ img {
     padding-right: 15px;
 }
 .section-banner {
-    background: url("/assets/img/background.png") no-repeat center;
+    background: url("assets/img/background.png") no-repeat center;
     background-size:cover;
     position: relative;
     display: inline-block;
@@ -129,22 +129,22 @@ img {
     color: #fff;
 }
 .box .nature {
-    background: url("/assets/img/imagem-1.png") no-repeat;
+    background: url("assets/img/imagem-1.png") no-repeat;
     background-size: cover;
 }
 .box .daily {
-    background: url("/assets/img/imagem-2.png") no-repeat;
+    background: url("assets/img/imagem-2.png") no-repeat;
     background-size: cover;
 }
 .box .together {
-    background: url("/assets/img/imagem-3.png") no-repeat;
+    background: url("assets/img/imagem-3.png") no-repeat;
     background-size: auto;
 }
 .box .together h3 {
     margin-top: 134px;
 }
 .box .analysis {
-    background: url("/assets/img/imagem-4.png") no-repeat;
+    background: url("assets/img/imagem-4.png") no-repeat;
     background-size: cover;
 }
 .box .analysis h3,
@@ -153,7 +153,7 @@ img {
     padding-right: 34px;
 }
 .box .pictures {
-    background: url("/assets/img/imagem-5.png") no-repeat;
+    background: url("assets/img/imagem-5.png") no-repeat;
     background-size: cover;
 }
 /*======Seção Growth===========*/
