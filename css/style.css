@@ -21,7 +21,7 @@ img {
     padding-right: 15px;
 }
 .section-banner {
-    background-image:url('https://dummyimage.com/1366x611/09f/09f'); /* url */
+    background-image:url('https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/img/imagem-1.png'); /* url */
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
