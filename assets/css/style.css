@@ -3,7 +3,7 @@
 }
 @font-face {
     font-family: "Poppins";
-    src: url(https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/assets/Fontes/Poppins-Regular.ttf);
+    src: url(./main/assets/Fontes/Poppins-Regular.ttf);
 }
 * {
     margin: 0;
@@ -131,22 +131,22 @@ img {
     color: #fff;
 }
 .box .nature {
-    background: url("https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/assets/img/imagem-1.png") no-repeat;
+    background: url("./main/assets/img/imagem-1.png") no-repeat;
     background-size: cover;
 }
 .box .daily {
-    background: url("https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/assets/img/imagem-2.png") no-repeat;
+    background: url("./main/assets/img/imagem-2.png") no-repeat;
     background-size: cover;
 }
 .box .together {
-    background: url("https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/assets/img/imagem-3.png") no-repeat;
+    background: url("./main/assets/img/imagem-3.png") no-repeat;
     background-size: auto;
 }
 .box .together h3 {
     margin-top: 134px;
 }
 .box .analysis {
-    background: url("https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/assets/img/imagem-4.png") no-repeat;
+    background: url("./main/assets/img/imagem-4.png") no-repeat;
     background-size: cover;
 }
 .box .analysis h3,
@@ -155,7 +155,7 @@ img {
     padding-right: 34px;
 }
 .box .pictures {
-    background: url("https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/assets/img/imagem-5.png") no-repeat;
+    background: url("./main/assets/img/imagem-5.png") no-repeat;
     background-size: cover;
 }
 /*======Seção Growth===========*/
