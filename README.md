@@ -23,7 +23,7 @@ Atingindo os requisitos mínimos você pode **explorar mais o layout,** use sua 
 
 Caso tenha algum problema com os arquivos do layout, pode usar dummy images.
 
-![Perithus](assets/img/perithusant.gif)
+
 
 
 
@@ -32,7 +32,7 @@ Caso tenha algum problema com os arquivos do layout, pode usar dummy images.
   - Foram aplicados algumas animações utilizando css e javascript, tornando a página interativa.
 
 
-![Perithus](assets/img/perithus.gif)
+![Codeby](img/codeby.gif)
 
 
 # Contato
