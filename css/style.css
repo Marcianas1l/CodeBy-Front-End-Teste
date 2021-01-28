@@ -3,7 +3,7 @@
 }
 @font-face {
     font-family: "Poppins";
-    src: url(../../Fontes/Poppins-Regular.ttf);
+    src: url(https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/Fontes/Poppins-Regular.ttf);
 }
 * {
     margin: 0;
@@ -21,7 +21,7 @@ img {
     padding-right: 15px;
 }
 .section-banner {
-    background-image: url("../../img/background.png");
+    background-image: url("https://raw.githubusercontent.com/Marcianas1l/CodeBy-Front-End-Teste/main/img/background.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
