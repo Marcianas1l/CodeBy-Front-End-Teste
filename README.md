@@ -1,6 +1,6 @@
  
 # Desafio CodeBy :white_check_mark:
-[https://marcianas1l.github.io/Perithus-Font-end-Teste/](https://marcianas1l.github.io/Perithus-Font-end-Teste/)
+https://marcianas1l.github.io/CodeBy-Front-End-Teste/
 
 
 # Tecnologias utilizadas :books:
