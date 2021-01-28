@@ -1,0 +1,259 @@
+:root {
+    --cinza-claro: #383838;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url(/assets/Fontes/Poppins-Regular.ttf);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img {
+    max-width: 100%;
+}
+
+.container {
+    max-width: 1169px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.section-banner {
+    background: url("/assets/img/background.png") no-repeat center;
+    background-size:cover;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.conteudo-banner {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 73px;
+    margin-bottom: 84px;
+}
+.conteudo-banner .logo {
+    padding-bottom: 68px;
+    display: block;
+}
+.conteudo-banner h1 {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    font: 600 normal 62px/72px "Poppins";
+    color: #fff;
+}
+.button-banner {
+    width: 246px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 68px auto 0;
+    text-transform: uppercase;
+    font: 600 normal 18px "Poppins", sans-serif;
+    color: var(--cinza-claro);
+    background: #fff;
+    text-decoration: none;
+    cursor: pointer;
+    transition: color 1.8s ease, background .6s ease;
+    
+}
+.button-banner:hover {
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+    transition: color .6s ease, background .6s ease;
+}
+/*===================SEÇÃO CATEGORIES===========*/
+#categories {
+    width: 100%;
+    display: block;
+    margin-top: 62px;
+    margin-bottom: 96px;
+}
+.categories-container h2 {
+    margin-bottom: 13px;
+}
+.categories-container > p {
+    margin-bottom: 35px;
+    line-height: 27px;
+}
+.categories-container h2,
+.plans-container h2 {
+    font: 600 normal 52px "Poppins";
+    color: var(--cinza-claro);
+}
+.categories-container {
+    font: 600 normal 18px "Poppins";
+    color: var(--cinza-claro);
+}
+/*======Seção===========*/
+.categories-container .box {
+    width: 100%;
+    display: flex;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.categories-container .box div {
+    transition: all ease .6s;
+}
+.categories-container .box div:hover {
+    filter:brightness(2);
+    cursor: pointer;
+    transition: all ease .6s;
+}
+.categories-container .box:last-child {
+    flex-direction: row-reverse;
+}
+.categories-container .box .item {
+    position: relative;
+    margin: 15px;
+    padding-left: 34px;
+    height: 346px;
+}
+.categories-container .box .item:first-child {
+    flex-grow: 1;
+}
+.categories-container .box .item:nth-child(2) {
+    flex-grow: 2;
+}
+.categories-container h3 {
+    font: 600 normal 52px "Poppins";
+    color: #fff;
+}
+.categories-container .box p {
+    font: 600 normal 20px "Poppins";
+    color: #fff;
+}
+.box .nature {
+    background: url("/assets/img/imagem-1.png") no-repeat;
+    background-size: cover;
+}
+.box .daily {
+    background: url("/assets/img/imagem-2.png") no-repeat;
+    background-size: cover;
+}
+.box .together {
+    background: url("/assets/img/imagem-3.png") no-repeat;
+    background-size: auto;
+}
+.box .together h3 {
+    margin-top: 134px;
+}
+.box .analysis {
+    background: url("/assets/img/imagem-4.png") no-repeat;
+    background-size: cover;
+}
+.box .analysis h3,
+.box .analysis p {
+    text-align: right;
+    padding-right: 34px;
+}
+.box .pictures {
+    background: url("/assets/img/imagem-5.png") no-repeat;
+    background-size: cover;
+}
+/*======Seção Growth===========*/
+#growth-plans {
+    background: #f4f4f4;
+    position: relative;
+    padding-top: 99px;
+    padding-bottom: 95px;
+}
+.plans-container {
+    position: relative;
+}
+.plans-container .plans-title {
+    position: absolute;
+}
+.plans-container > div > p {
+    font: 600 normal 18px "Poppins";
+    color: var(--cinza-claro);
+}
+.column-plans {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-left: -15px;
+    color: #fff;
+}
+.column-plans .plans-item > div {
+    padding: 15px;
+    margin: 15px;
+}
+.plans-item > div > h4 {
+    font: 600 normal 34px "Poppins";
+}
+.plans-item div p:nth-child(2) {
+    font: 600 normal 20px "Poppins";
+}  
+.plans-item div p:first-child {
+    font: 400 normal 12px "Poppins";
+}  
+.column-plans .plans-item div:first-child {
+    background: #005499;
+    margin-bottom: -15px;
+}
+.plans-item {
+    display: flex;
+    flex-direction: column;
+}
+.plans-item .plans-text { 
+    height: 77px;
+    background: #0088ed;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.plans-item .column-2 {
+    height: 127px;
+}
+.plans-item .column-3 {
+    height: 177px
+}
+.plans-item .column-4 {
+    height: 227px
+}
+.plans-item .column-5 {
+    height: 277px
+}
+.plans-item .column-6 {
+    height: 327px
+}
+
+/*Animação*/
+
+[data-anime]:first-child {
+    opacity: 0;
+    transition: .40s;
+}
+[data-anime]:nth-child(2) {
+    opacity: 0;
+    transition: .50s;
+}
+[data-anime]:nth-child(3) {
+    opacity: 0;
+    transition: .60s;
+}
+[data-anime]:nth-child(4) {
+    opacity: 0;
+    transition: .80s;
+}
+[data-anime]:nth-child(5) {
+    opacity: 0;
+    transition: .90s;
+}
+[data-anime]:nth-child(6) {
+    opacity: 0;
+    transition: .999s;
+}
+[data-anime="bottom"]  {
+    transform: translate3d(0, 50px, 0);
+}
+[data-anime].animate {
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
