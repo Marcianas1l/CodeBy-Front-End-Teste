@@ -131,22 +131,22 @@ img {
     color: #fff;
 }
 .box .nature {
-    background: url("./main/assets/img/imagem-1.png") no-repeat;
+    background: url("../assets/img/imagem-1.png") no-repeat;
     background-size: cover;
 }
 .box .daily {
-    background: url("./main/assets/img/imagem-2.png") no-repeat;
+    background: url("../assets/img/imagem-2.png") no-repeat;
     background-size: cover;
 }
 .box .together {
-    background: url("./main/assets/img/imagem-3.png") no-repeat;
+    background: url("../assets/img/imagem-3.png") no-repeat;
     background-size: auto;
 }
 .box .together h3 {
     margin-top: 134px;
 }
 .box .analysis {
-    background: url("./main/assets/img/imagem-4.png") no-repeat;
+    background: url("../assets/img/imagem-4.png") no-repeat;
     background-size: cover;
 }
 .box .analysis h3,
@@ -155,7 +155,7 @@ img {
     padding-right: 34px;
 }
 .box .pictures {
-    background: url("./main/assets/img/imagem-5.png") no-repeat;
+    background: url("../assets/img/imagem-5.png") no-repeat;
     background-size: cover;
 }
 /*======Seção Growth===========*/
