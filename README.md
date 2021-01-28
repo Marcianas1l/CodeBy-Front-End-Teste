@@ -24,7 +24,7 @@ Atingindo os requisitos mínimos você pode **explorar mais o layout,** use sua 
 Caso tenha algum problema com os arquivos do layout, pode usar dummy images.
 
 
-
+![Codeby](img/teste-layout-ai.png)
 
 
 ## O resultado: 
